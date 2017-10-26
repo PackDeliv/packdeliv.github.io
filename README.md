@@ -1,7 +1,3 @@
----
-title: Rápido, bom e em tempo real!
----
-
 # Rápido, bom e em tempo real! :smile:
 
 ## Problema
