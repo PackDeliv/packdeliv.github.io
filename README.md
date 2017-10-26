@@ -1,6 +1,3 @@
----
-title: Início
----
 ## Problema
 
 Ineficiência do sistema de entregas para curtas distâncias, à exemplo da Empresa Brasileira de Correios e Telégrafos, onde para entregas na mesma região, possuem um alto tempo de espera, e um alto custo. O elevado tempo de espera pela entrega gera insatisfação para o usuário. O alto custo também é um fator que gera insatisfação e perda de rentabilidade no caso de empresas.
