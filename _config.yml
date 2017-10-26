@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: PackDeliv
+page.title: Rápido, bom e em tempo real!
 description: Facilitando sua vida, agilizando suas entregas!
 plugins:
   - jemoji
