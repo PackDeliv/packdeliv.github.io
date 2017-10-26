@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/PackDeliv/packdeliv.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PackDeliv/packdeliv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Problema
+#### Ineficiência do sistema de entregas para curtas distâncias, à exemplo da Empresa Brasileira de Correios e Telégrafos, onde para entregas na mesma região, possuem um alto tempo de espera, e um alto custo. O elevado tempo de espera pela entrega gera insatisfação para o usuário. O alto custo também é um fator que gera insatisfação e perda de rentabilidade no caso de empresas.
+## Pessoas afetadas
+#### Pessoas e empresas que utilizam os sistemas atuais de entrega, principalmente para curtas distâncias.
+# Solução
+### Usar ferramentas do século 21 para diminuição dos gastos e do tempo de espera para a realização e o recebimento de uma entrega através de algoritmos que melhores o sistema de entregas como um todo. Utilizando entregadores que desejem fazer parte do sistema para que exista uma maior escalabilidade do serviço, de acordo com o aumento do volume de entregas, mantendo a eficiência do sistema.
