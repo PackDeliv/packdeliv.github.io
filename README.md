@@ -17,6 +17,6 @@ Usar ferramentas do século 21 para diminuição dos gastos e do tempo de espera
 
 [Apresentação do projeto](https://drive.google.com/open?id=1v2y9uLMwPkrXcJkXUAIpjma2UH6aY3HDYDq-BzxxTXA)
 
-[Estórias do usuário](https://docs.google.com/presentation/d/13fct6MAgYqUTAW8iyPBUkdXx8QNG_7Zywnb_A3E7qZ4/edit?usp=sharing)
+[Apresentação do modelo de negócio](https://docs.google.com/presentation/d/13fct6MAgYqUTAW8iyPBUkdXx8QNG_7Zywnb_A3E7qZ4/edit?usp=sharing)
 
 [Canvas](https://drive.google.com/file/d/1jgyffVV1hjX1dzkKbYK8COBqIO80VeSI/view?usp=sharing)
