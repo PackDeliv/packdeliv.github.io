@@ -22,3 +22,5 @@ Usar ferramentas do século 21 para diminuição dos gastos e do tempo de espera
 [Canvas](https://drive.google.com/file/d/1HyXEPtiV06CrtTY6Z2lWSLHrEfsDDzFi/view?usp=sharing)
 
 [Documento de requisitos](https://docs.google.com/document/d/1t63DxHsuPJKPEM_OWSr_-8uYH5mcbOAcUrD7VKdo-7g/edit?usp=sharing)
+
+[Documento de arquitetura](https://docs.google.com/document/d/1_umHOyH28q7k7EjohY8AzyxnF6LSjaQssekpLudgPtU/edit?usp=sharing)
